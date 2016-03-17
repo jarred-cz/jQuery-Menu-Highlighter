@@ -1,3 +1,3 @@
 # jQuery-Menu-Highlighter
-Intelligent highlights the menu item according to current scroll position.
-Counts threshold based on object height and its visibility on viewport.
+Cleverly highlights the menu item depending on the current scrolling position on the page.
+Highlighting counts with some threshold based on the object height and its visibility in the viewport.
